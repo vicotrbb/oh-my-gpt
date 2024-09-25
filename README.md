@@ -110,3 +110,7 @@ You can combine various options:
 ```zsh
 gpt --model gpt-4 --file code.py "Explain this code" --output explanation.md
 ```
+
+## Support
+
+You like this project? You can always support by donating: <a href='https://buy.stripe.com/4gw14c91D8Qu09O5kk'>![image](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)</a>
